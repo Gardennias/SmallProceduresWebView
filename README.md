@@ -1,9 +1,6 @@
 # SmallProceduresWebView
 小程序与网页通讯
 
-
-[微信小程序 JS-SDK](https://res.wx.qq.com/open/js/jweixin-1.4.0.js)
-
 ## 运行环境
 Hbuilder
 
