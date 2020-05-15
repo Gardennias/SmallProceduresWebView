@@ -38,5 +38,5 @@ Hbuilder
 经测试，uni SDK 只能使用 uni 路由与页面跳转命令：即 该项目中的 web页展示
 > uni.navigateTo  uni.redirectTo  uni.reLaunch  uni.switchTab
 
-具体可参考 [官方示例html](https://uniapp.dcloud.io/static/web-view.html)
+具体可参考 [uni-app官方示例html](https://uniapp.dcloud.io/static/web-view.html)
 右击查看网页源代码
