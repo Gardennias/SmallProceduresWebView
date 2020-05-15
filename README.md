@@ -8,7 +8,7 @@ Hbuilder
 ## 项目结构 
 目录生成工具 [mddir](https://www.npmjs.com/package/mddir)
 ```
-|-- SmallProceduresWebView
+|-- miniprogramWebView
     |-- App.vue
     |-- main.js
     |-- manifest.json
