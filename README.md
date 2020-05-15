@@ -28,7 +28,7 @@ Hbuilder
         |-- test.html          // web-view 引入的 web 源码，只做参考，不可直接再本项目直接引用，可单独部署到服务器
 ```
 
-### test.html
+### static/test.html
 
 在编写访问外部的html时，除了需要加入 [微信小程序 JS-SDK](https://res.wx.qq.com/open/js/jweixin-1.4.0.js)
 > <script type="text/javascript" src="https://res.wx.qq.com/open/js/jweixin-1.4.0.js"></script>
@@ -38,5 +38,5 @@ Hbuilder
 经测试，uni SDK 只能使用 uni 路由与页面跳转命令：即 该项目中的 web页展示
 > uni.navigateTo  uni.redirectTo  uni.reLaunch  uni.switchTab
 
-具体可参考 [uni-app官方示例html](https://uniapp.dcloud.io/static/web-view.html)
+或者参考 [uni-app官方示例html](https://uniapp.dcloud.io/static/web-view.html)
 右击查看网页源代码
